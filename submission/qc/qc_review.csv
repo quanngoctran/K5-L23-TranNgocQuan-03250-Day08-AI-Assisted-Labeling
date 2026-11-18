@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,19,sai_vi_tri_kich_thuoc,Hoang Minh Hai,"Khung three_wheeler cắt mép bạt/mui bên trái và sát cắt đáy bánh xe gần camera; cần nới theo biên nhìn thấy (mép trái khoảng x230, đáy bánh khoảng y631 trên ảnh gốc)."
+img_006.jpg,,khong,Hoang Minh Hai,Đã đối chiếu ảnh gốc và ảnh QC có object_id; chưa ghi nhận lỗi rõ ràng.
+img_014.jpg,153,sai_vi_tri_kich_thuoc,Hoang Minh Hai,"Khung motorbike chỉ bắt đầu ở y431, bỏ phần tay lái/gương đang lộ bên cạnh tay phải người lái khoảng x750 y380; cần ôm cả các phần xe nhìn thấy."
+img_031.jpg,463,sai_vi_tri_kich_thuoc,Hoang Minh Hai,"Cạnh phải box person ở x517 cắt phần cẳng tay/bàn tay vươn sang phải trên giỏ nhãn, khoảng x550-590 y330-345; cần mở rộng đến phần tay nhìn thấy."
+img_035.jpg,,khong,Hoang Minh Hai,Đã đối chiếu ảnh gốc và ảnh QC có object_id; chưa ghi nhận lỗi rõ ràng.
